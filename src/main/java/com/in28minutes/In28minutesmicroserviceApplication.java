@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class In28minutesmicroserviceApplication {
 
 	public static void main(String[] args) {
-		//abc
+		
 		SpringApplication.run(In28minutesmicroserviceApplication.class, args);
 	}
 
